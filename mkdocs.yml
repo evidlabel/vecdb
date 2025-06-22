@@ -1,4 +1,4 @@
-site_name: Chroma App Docs
+site_name: vecdb docs
 nav:
   - Home: index.md
-theme: readthedocs
+theme: material
