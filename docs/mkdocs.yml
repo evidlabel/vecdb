@@ -1,0 +1,4 @@
+site_name: Chroma App
+nav:
+  - Home: index.md
+theme: readthedocs  # Simple theme for documentation
