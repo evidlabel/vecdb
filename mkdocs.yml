@@ -1,4 +1,14 @@
-site_name: vecdb docs
+site_name: VecDB Documentation
 nav:
   - Home: index.md
-theme: material
+  - Usage: usage.md
+  - Modules: modules.md
+theme:
+  name: material
+  palette:
+    primary: indigo
+  features:
+    - content.code.copy
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences

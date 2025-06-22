@@ -9,8 +9,9 @@ dependencies = [
     "chromadb",
     "click",
     "numpy",
-    "mkdocs",  # Added for documentation
-    "sentence-transformers"  # Added for generating meaningful embeddings
+    "mkdocs",
+    "mkdocs-material",
+    "sentence-transformers"
 ]
 
 [tool.setuptools.packages]
